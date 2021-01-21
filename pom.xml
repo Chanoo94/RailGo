@@ -147,7 +147,7 @@
 		<dependency> <!-- 9. jackson-databind : @ResponseBody를 위한 라이브러리 -->
 		    <groupId>com.fasterxml.jackson.core</groupId>
 		    <artifactId>jackson-databind</artifactId>
-		    <version>2.9.9</version>
+		    <version>2.9.10.7</version>
 		</dependency>
 		<dependency> <!-- 10. jackson-dataformat-xml : 객체를 JSON/XML로 변환할 때 사용 -->
 		    <groupId>com.fasterxml.jackson.dataformat</groupId>
